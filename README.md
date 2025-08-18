@@ -1,5 +1,4 @@
-# 💫 About Me:
-I'm Muhammet Özkoç from Turkey.<br><br>🔭 I'm currently enhancing my expertise in Artificial Intelligence, focusing on Machine Learning, Deep Learning, and Natural Language Processing to develop innovative solutions.<br>👯 I'm looking to collaborate on projects that leverage AI to solve real-world problems, joining forces with passionate individuals aiming for a significant impact.<br>🤝 I'm seeking help to delve into AI challenges, especially in implementing the latest research in Natural Language Processing and Deep Learning.<br>🌱 I'm learning about advanced algorithms and neural network architectures to improve my projects' efficiency and effectiveness, and exploring AI frameworks and tools to stay technologically updated.<br>💬 Feel free to ask me about AI, Machine Learning, Deep Learning, and Natural Language Processing. I'm eager to share knowledge, learn from others, and engage in discussions.<br>⚡ Fun fact: In my free time, I apply AI creatively, experimenting with technology and art projects. I believe this intersection can lead to fascinating discoveries and innovations.
+
 
 
 ## 🌐 Socials:
